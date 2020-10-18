@@ -1,5 +1,5 @@
 # Switch Comment Out
-- Switchs normal line and comment out line (start with #) in visual block range.
+- Switchs lines from normal state to comment out (start with #) in visual block range.
 - Lines starting with ## is ignored.
 - Plugin for Neovim.
 
