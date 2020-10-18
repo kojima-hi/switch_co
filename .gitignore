@@ -1,0 +1,25 @@
+# Specific
+work
+
+# Python
+source/__pycache__
+*.pyc
+*.npz
+
+# Tex
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.idx
+*.ilg
+*.ind
+*.toc
+*.synctex.gz
+
+# Mac
+.DS_Store
+
+# App
+*.swp
