@@ -3,7 +3,7 @@
 - Lines starting with ## is ignored.
 - Plugin for Neovim.
 
-# Usage
+## Usage
 ```
 :SwitchCO
 ```
